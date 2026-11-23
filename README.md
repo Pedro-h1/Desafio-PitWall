@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=E10600&text=🏎️+PITWALL&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=💻+GP+de+São+Paulo+-+HTML+e+CSS&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A25CED,100:5649ED&text=🏎️+PITWALL&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=💻+GP+de+São+Paulo+-+HTML+e+CSS&descAlignY=58&descSize=18" width="100%" />
 
 </div>
 
@@ -99,6 +99,6 @@ Desenvolver uma página inspirada no universo da Fórmula 1, aplicando os concei
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=E10600&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:A25CED,100:5649ED&section=footer" width="100%" />
 
 </div>
