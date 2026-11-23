@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E34F26,100:F06529&text=🏎️+PITWALL&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=💻+GP+de+São+Paulo+-+HTML+e+CSS&descAlignY=58&descSize=18" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:171717,100:E10600&text=🏎️+PITWALL&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=💻+GP+de+São+Paulo+-+HTML+e+CSS&descAlignY=58&descSize=18" width="100%" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E34F26&center=true&vCenter=true&width=750&lines=Sobre+o+Projeto;Desafio+PitWall" alt="Sobre o Projeto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E10600&center=true&vCenter=true&width=750&lines=%F0%9F%8F%8E%EF%B8%8F+Projeto+PitWall+%E2%80%94+GP+de+S%C3%A3o+Paulo" alt="Sobre o Projeto" />
 </div>
 <div align="center">
     <p>O <strong>PitWall</strong> é um projeto desenvolvido como atividade da unidade curricular de <strong>Linguagem de Marcação (LIMA)</strong>, no SENAI.</p>
@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E34F26&center=true&vCenter=true&width=750&lines=Objetivo+do+Projeto" alt="Objetivo do Projeto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E10600&center=true&vCenter=true&width=750&lines=%F0%9F%8F%8E%EF%B8%8F+Projeto+PitWall+%E2%80%94+GP+de+S%C3%A3o+Paulo" alt="Objetivo do Projeto" />
 </div>
 <div align="center">
     <p>Desenvolver uma página inspirada no universo da Fórmula 1, aplicando os conceitos de estruturação HTML, estilização CSS e responsividade, reproduzindo o layout apresentado na atividade tanto em computadores quanto em dispositivos móveis.</p>
@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E34F26&center=true&vCenter=true&width=750&lines=Funcionalidades" alt="Funcionalidades" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E10600&center=true&vCenter=true&width=750&lines=%F0%9F%8F%8E%EF%B8%8F+Projeto+PitWall+%E2%80%94+GP+de+S%C3%A3o+Paulo" alt="Funcionalidades" />
 </div>
 <div align="center">
     <p>🏁 <strong>Página inicial:</strong> apresentação do GP de São Paulo e informações do circuito.</p>
@@ -35,7 +35,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E34F26&center=true&vCenter=true&width=750&lines=Arquivos+do+Projeto" alt="Arquivos do Projeto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E10600&center=true&vCenter=true&width=750&lines=%F0%9F%8F%8E%EF%B8%8F+Projeto+PitWall+%E2%80%94+GP+de+S%C3%A3o+Paulo" alt="Arquivos do Projeto" />
 </div>
 <div align="center">
 
@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E34F26&center=true&vCenter=true&width=750&lines=Especifica%C3%A7%C3%B5es+T%C3%A9cnicas" alt="Especificações Técnicas" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E10600&center=true&vCenter=true&width=750&lines=%F0%9F%8F%8E%EF%B8%8F+Projeto+PitWall+%E2%80%94+GP+de+S%C3%A3o+Paulo" alt="Especificações Técnicas" />
 </div>
 <div align="center">
 
@@ -69,5 +69,5 @@
     <strong>Visualização local:</strong> navegador web.
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F06529,100:E34F26&section=footer" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:E10600,100:171717&section=footer" width="100%" />
 </div>
