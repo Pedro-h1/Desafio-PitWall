@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E10600&center=true&vCenter=true&width=750&lines=%F0%9F%8F%8E%EF%B8%8F+Projeto+PitWall+%E2%80%94+GP+de+S%C3%A3o+Paulo" alt="Objetivo do Projeto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E10600&center=true&vCenter=true&width=750&lines=%F0%9F%8F%81+Objetivo+do+Projeto" alt="Objetivo do Projeto" />
 </div>
 <div align="center">
     <p>Desenvolver uma página inspirada no universo da Fórmula 1, aplicando os conceitos de estruturação HTML, estilização CSS e responsividade, reproduzindo o layout apresentado na atividade tanto em computadores quanto em dispositivos móveis.</p>
@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E10600&center=true&vCenter=true&width=750&lines=%F0%9F%8F%8E%EF%B8%8F+Projeto+PitWall+%E2%80%94+GP+de+S%C3%A3o+Paulo" alt="Funcionalidades" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E10600&center=true&vCenter=true&width=750&lines=%F0%9F%8F%81+Funcionalidades" alt="Funcionalidades" />
 </div>
 <div align="center">
     <p>🏁 <strong>Página inicial:</strong> apresentação do GP de São Paulo e informações do circuito.</p>
@@ -35,7 +35,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E10600&center=true&vCenter=true&width=750&lines=%F0%9F%8F%8E%EF%B8%8F+Projeto+PitWall+%E2%80%94+GP+de+S%C3%A3o+Paulo" alt="Arquivos do Projeto" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E10600&center=true&vCenter=true&width=750&lines=%F0%9F%8F%81+Arquivos+do+Projeto" alt="Arquivos do Projeto" />
 </div>
 <div align="center">
 
@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E10600&center=true&vCenter=true&width=750&lines=%F0%9F%8F%8E%EF%B8%8F+Projeto+PitWall+%E2%80%94+GP+de+S%C3%A3o+Paulo" alt="Especificações Técnicas" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E10600&center=true&vCenter=true&width=750&lines=%F0%9F%8F%81+Especifica%C3%A7%C3%B5es+T%C3%A9cnicas" alt="Especificações Técnicas" />
 </div>
 <div align="center">
 
