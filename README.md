@@ -64,8 +64,8 @@
 | CSS Grid | Organização dos cards e formulário |
 | Media Queries | Adaptação para diferentes telas |
 
-    <br>
-    <strong>Ambiente de desenvolvimento:</strong> Visual Studio Code.
+<br>
+    <strong>Ambiente de desenvolvimento:</strong> Visual Studio Code.<br>
     <strong>Visualização local:</strong> navegador web.
 </div>
 <div align="center">
