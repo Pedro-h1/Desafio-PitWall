@@ -1,15 +1,12 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E34F26,100:B93D1F&text=🏎️+PITWALL&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=💻+GP+de+São+Paulo+-+HTML+e+CSS&descAlignY=58&descSize=18" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E34F26,100:F06529&text=🏎️+PITWALL&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=💻+GP+de+São+Paulo+-+HTML+e+CSS&descAlignY=58&descSize=18" width="100%" />
 </div>
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E34F26&center=true&vCenter=true&width=750&lines=Sobre+o+Projeto;Desafio+PitWall" alt="Sobre o Projeto" />
 </div>
 <div align="center">
-
-    O **PitWall** é um projeto desenvolvido como atividade da unidade curricular de **Linguagem de Marcação (LIMA)**, no SENAI.
-
-    A proposta consiste em recriar a página do **GP de São Paulo**, realizado no Autódromo de Interlagos, utilizando exclusivamente **HTML5 e CSS3**, seguindo o modelo visual disponibilizado na atividade.
-
+    <p>O <strong>PitWall</strong> é um projeto desenvolvido como atividade da unidade curricular de <strong>Linguagem de Marcação (LIMA)</strong>, no SENAI.</p>
+    <p>A proposta consiste em recriar a página do <strong>GP de São Paulo</strong>, realizado no Autódromo de Interlagos, utilizando exclusivamente <strong>HTML5 e CSS3</strong>, seguindo o modelo visual disponibilizado na atividade.</p>
 </div>
 
 ---
@@ -18,9 +15,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E34F26&center=true&vCenter=true&width=750&lines=Objetivo+do+Projeto" alt="Objetivo do Projeto" />
 </div>
 <div align="center">
-
-    Desenvolver uma página inspirada no universo da Fórmula 1, aplicando os conceitos de estruturação HTML, estilização CSS e responsividade, reproduzindo o layout apresentado na atividade tanto em computadores quanto em dispositivos móveis.
-
+    <p>Desenvolver uma página inspirada no universo da Fórmula 1, aplicando os conceitos de estruturação HTML, estilização CSS e responsividade, reproduzindo o layout apresentado na atividade tanto em computadores quanto em dispositivos móveis.</p>
 </div>
 
 ---
@@ -29,14 +24,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=1500&color=E34F26&center=true&vCenter=true&width=750&lines=Funcionalidades" alt="Funcionalidades" />
 </div>
 <div align="center">
-
-    🏁 **Página inicial:** apresentação do GP de São Paulo e informações do circuito.<br>
-    🏎️ **Grid de pilotos:** cards com números, nomes e equipes dos pilotos.<br>
-    🏆 **Classificação:** tabela com posições, vitórias, diferenças e pontuação.<br>
-    🎟️ **Ingressos:** apresentação dos setores, preços e formulário de reserva.<br>
-    📱 **Responsividade:** adaptação do layout para computadores e celulares.<br>
-    🎨 **Identidade visual:** cores das equipes, imagem de fundo e zebra da pista.
-
+    <p>🏁 <strong>Página inicial:</strong> apresentação do GP de São Paulo e informações do circuito.</p>
+    <p>🏎️ <strong>Grid de pilotos:</strong> cards com números, nomes e equipes dos pilotos.</p>
+    <p>🏆 <strong>Classificação:</strong> tabela com posições, vitórias, diferenças e pontuação.</p>
+    <p>🎟️ <strong>Ingressos:</strong> apresentação dos setores, preços e formulário de reserva.</p>
+    <p>📱 <strong>Responsividade:</strong> adaptação do layout para computadores e celulares.</p>
+    <p>🎨 <strong>Identidade visual:</strong> cores das equipes, imagem de fundo e zebra da pista.</p>
 </div>
 
 ---
@@ -46,11 +39,11 @@
 </div>
 <div align="center">
 
-    | Arquivo | Descrição |
-    |:---:|:---|
-    | `index.html` | Estrutura e conteúdo da página |
-    | `styles.css` | Estilização e responsividade do projeto |
-    | `img/piloto.jpg` | Imagem utilizada no banner principal |
+| Arquivo | Descrição |
+|:---:|:---|
+| `index.html` | Estrutura e conteúdo da página |
+| `styles.css` | Estilização e responsividade do projeto |
+| `img/piloto.jpg` | Imagem utilizada no banner principal |
 
 </div>
 
@@ -61,23 +54,20 @@
 </div>
 <div align="center">
 
-    | Tecnologia / Recurso | Utilização |
-    |:---:|:---|
-    | HTML5 | Estruturação dos elementos da página |
-    | CSS3 | Estilização e organização visual |
-    | Google Fonts | Tipografia do projeto |
-    | CSS Variables | Definição das cores com `:root` e `var()` |
-    | Flexbox | Alinhamento e distribuição dos elementos |
-    | CSS Grid | Organização dos cards e formulário |
-    | Media Queries | Adaptação para diferentes telas |
+| Tecnologia / Recurso | Utilização |
+|:---:|:---|
+| HTML5 | Estruturação dos elementos da página |
+| CSS3 | Estilização e organização visual |
+| Google Fonts | Tipografia do projeto |
+| CSS Variables | Definição das cores com `:root` e `var()` |
+| Flexbox | Alinhamento e distribuição dos elementos |
+| CSS Grid | Organização dos cards e formulário |
+| Media Queries | Adaptação para diferentes telas |
 
     <br>
-
-    **Ambiente de desenvolvimento:** Visual Studio Code.
-
-    **Visualização local:** navegador web.
-
+    <strong>Ambiente de desenvolvimento:</strong> Visual Studio Code.
+    <strong>Visualização local:</strong> navegador web.
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:B93D1F,100:E34F26&section=footer" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F06529,100:E34F26&section=footer" width="100%" />
 </div>
